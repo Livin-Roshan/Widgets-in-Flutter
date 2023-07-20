@@ -7,6 +7,15 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+Here's a app with all basic widgets...The widgets are :
+Container
+ListView
+Sized Box
+Card
+Stack
+Image
+Icon
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
